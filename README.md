@@ -7,7 +7,7 @@
 To get started with the app, first clone the repo and `cd` into the directory:
 
 ```
-$ git clone git@github.com:SamroodAli/micro-reddit.git
+$ git clone https://github.com/SamroodAli/micro-reddit.git
 $ cd micro-reddit
 ```
 
